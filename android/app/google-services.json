@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "47911556093",
+    "project_id": "gdsc-atmiya",
+    "storage_bucket": "gdsc-atmiya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47911556093:android:d298a0b5bb824836223f94",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_atmiya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47911556093-drte0ll3l70jksbksc5vgs0oadclnk4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gdsc_atmiya",
+            "certificate_hash": "61e541ed6e66a683003611c4eb55796bed6cfe7f"
+          }
+        },
+        {
+          "client_id": "47911556093-27g3r439ure90prplcnm2r1opf3evnmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxmAQtH9bVbxOBJDs7X4mo_hTxBhX1_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47911556093-27g3r439ure90prplcnm2r1opf3evnmo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47911556093-1koorjuk4fsqfs68aiuv353bm2oj50g6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gdscAtmiya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
